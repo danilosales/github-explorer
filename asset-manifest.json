@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/github-explorer/static/js/main.946fda86.chunk.js",
-    "main.js.map": "/github-explorer/static/js/main.946fda86.chunk.js.map",
-    "runtime-main.js": "/github-explorer/static/js/runtime-main.906dbdf0.js",
-    "runtime-main.js.map": "/github-explorer/static/js/runtime-main.906dbdf0.js.map",
-    "static/js/2.efcd5b41.chunk.js": "/github-explorer/static/js/2.efcd5b41.chunk.js",
-    "static/js/2.efcd5b41.chunk.js.map": "/github-explorer/static/js/2.efcd5b41.chunk.js.map",
-    "index.html": "/github-explorer/index.html",
-    "precache-manifest.21f5e8a8c17413a1105e6eecd595d946.js": "/github-explorer/precache-manifest.21f5e8a8c17413a1105e6eecd595d946.js",
-    "service-worker.js": "/github-explorer/service-worker.js",
-    "static/js/2.efcd5b41.chunk.js.LICENSE.txt": "/github-explorer/static/js/2.efcd5b41.chunk.js.LICENSE.txt",
-    "static/media/githubBackground.svg": "/github-explorer/static/media/githubBackground.0b819d63.svg",
-    "static/media/logo.svg": "/github-explorer/static/media/logo.04f6798f.svg"
+    "main.js": "https://danilosales.github.io/github-explorer/static/js/main.f221da4b.chunk.js",
+    "main.js.map": "https://danilosales.github.io/github-explorer/static/js/main.f221da4b.chunk.js.map",
+    "runtime-main.js": "https://danilosales.github.io/github-explorer/static/js/runtime-main.732ee0dd.js",
+    "runtime-main.js.map": "https://danilosales.github.io/github-explorer/static/js/runtime-main.732ee0dd.js.map",
+    "static/js/2.2efff3f9.chunk.js": "https://danilosales.github.io/github-explorer/static/js/2.2efff3f9.chunk.js",
+    "static/js/2.2efff3f9.chunk.js.map": "https://danilosales.github.io/github-explorer/static/js/2.2efff3f9.chunk.js.map",
+    "index.html": "https://danilosales.github.io/github-explorer/index.html",
+    "precache-manifest.612c137048b0dbb84f001708583441ef.js": "https://danilosales.github.io/github-explorer/precache-manifest.612c137048b0dbb84f001708583441ef.js",
+    "service-worker.js": "https://danilosales.github.io/github-explorer/service-worker.js",
+    "static/js/2.2efff3f9.chunk.js.LICENSE.txt": "https://danilosales.github.io/github-explorer/static/js/2.2efff3f9.chunk.js.LICENSE.txt",
+    "static/media/githubBackground.svg": "https://danilosales.github.io/github-explorer/static/media/githubBackground.0b819d63.svg",
+    "static/media/logo.svg": "https://danilosales.github.io/github-explorer/static/media/logo.04f6798f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.906dbdf0.js",
-    "static/js/2.efcd5b41.chunk.js",
-    "static/js/main.946fda86.chunk.js"
+    "static/js/runtime-main.732ee0dd.js",
+    "static/js/2.2efff3f9.chunk.js",
+    "static/js/main.f221da4b.chunk.js"
   ]
 }
